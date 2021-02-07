@@ -30,3 +30,7 @@ In my challenge, I am tasked with digging deeper into this idea of a mentorship 
 ![](Resources/mentorship_eligibilty.png)
 
 ## Summary
+
+We will have approxamately 1550 new positions needing to be filled, we can see that with the 'mentorship_eligibility.png' file right above.
+
+It does not appear that Pewlett-Hackard has enough qualified individuals for a mentorship program, as the vacancies revealed to us in our retirement titles summary far outways the meer 1550 individuals that we have at our disposal
