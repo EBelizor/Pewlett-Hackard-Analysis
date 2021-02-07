@@ -25,7 +25,7 @@ In my challenge, I am tasked with digging deeper into this idea of a mentorship 
 
 ### Employees Eligible for Program
 
-- Our True Targets revealed. We see Exactly who we need to Reach out too. 
+- Our True Targets revealed. We see Exactly who we need to Reach out to; 1550 Employees
 
 ![](Resources/mentorship_eligibilty.png)
 
