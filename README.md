@@ -14,7 +14,7 @@ In my challenge, I am tasked with digging deeper into this idea of a mentorship 
 
 - Large sum of Duplicated values in retirement_titles (See Below)
 
-![](Resources/retirement_titles.png)
+![](Resources/Retirement_titles.png)
 
 - Better Analysis with unique titles; however still shows employees who may not be around.
 
