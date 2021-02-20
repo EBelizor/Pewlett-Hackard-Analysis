@@ -2,7 +2,7 @@
 
 ## Analysis Overview
 
-Our initital analysis analysis of Pewlett-Packard was astonoshing, we found that a vast number of their employees were soon due to retire. Using an Entity Relationship Diagram (ERD) allowed us to map similar columns within our 6 data tables. With the help of SQL, we were able to combine the extracted HR tables into databases, this revealed a complet view of Pewlett-Hackards employees slated to retire. Using our initial analysis, we were able to isolate the individuals who were approaching retirement soon. 
+Our initital analysis analysis of Pewlett-Packard was astonoshing, we found that a vast number of their employees were soon due to retire. Using an Entity Relationship Diagram (ERD) allowed us to map similar columns within our 6 data tables. With the help of SQL, we were able to make different connections with our HR tables and create new tables within our database, this revealed a complet view of Pewlett-Hackards employees slated to retire. Using our initial analysis, we were able to isolate the individuals who were approaching retirement soon. 
 
 The new table generated has enabled us to be better prepared for the "Silver Tsunami", by setting a plan in motion to provide a mentorship program where the employees slated to retire can train those ready to take a leap in their careers.
 
