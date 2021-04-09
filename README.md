@@ -2,11 +2,11 @@
 
 ## Analysis Overview
 
-Our initital analysis analysis of Pewlett-Packard was astonoshing, we found that a vast number of their employees were soon due to retire. Using an Entity Relationship Diagram (ERD) allowed us to map similar columns within our 6 data tables. With the help of SQL, we were able to make different connections with our HR tables and create new tables within our database, this revealed a complet view of Pewlett-Hackards employees slated to retire. Using our initial analysis, we were able to isolate the individuals who were approaching retirement soon. 
+In this project, I will be exploring HR data for an aging compnay. The data used for this task was located in 6 different CSV files, that were in the companies HR database. After analyzing the data files, I created an entity relationship diagram (ERD) in order see how these tables related to each other. Using primary keys and foreign keys, I was able to find clear relationships between the data tables, and plan potential combinations of the tables in order to expand my database. After creating my database, I was able to query the data, this revealed a complete view of Pewlett-Hackards employees slated to retire. 
 
-The new table generated has enabled us to be better prepared for the "Silver Tsunami", by setting a plan in motion to provide a mentorship program where the employees slated to retire can train those ready to take a leap in their careers.
+The new tables generated enabled me to demonstrate just how massive this "Silver Tsunami" was. Action was immediately taken, as a plan was set in motion to provide a mentorship program where the employees slated to retire can train those ready to make a leap in their careers.
 
-In this challenge, I am tasked with digging deeper into this idea of a mentorship program. My analysis will help build a roadmap into this new mentorship program, by taking a deeper look at the title and eligibility of those slated to retire. The combination of the two will help us determine to get the most out of our "Silver" employees. 
+In this challenge, I am tasked with digging deeper into the idea of a mentorship program. My analysis will help build a roadmap into this new mentorship program and positions ready to be filled, by taking a deeper look at the title of those slated to retire, as well as their eligibility to participate in this program. The combination of the two will help Pewlett-Hackard in easing the blow of the retirement wave through planning.
 
 ## Results
 
