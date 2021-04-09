@@ -12,14 +12,14 @@ In this challenge, I am tasked with digging deeper into the idea of a mentorship
 
 ### Retirement Title
 
-- There is a large sum of Duplicated values in the retirement_titles table. (See Below)
+- There is a large sum of duplicate values in the "retirement_titles" table. (See Below)
 
 ![](Resources/Retirement_titles.png)
 
-- The unique_titles table alleviates the issue of duplicates in the retirement_titles table.
+- The "unique_titles" table alleviates the issue of duplicates in the "retirement_titles" table.
   - The table still however shows employees who may have already retired.
 
-- Most of our retirng employees are either Senior Engineers or Senior Staff.
+- Most of our retiring employees are either Senior Engineers or Senior Staff.
 
 ![](Resources/retiring_titles.png)
 
