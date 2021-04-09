@@ -8,16 +8,16 @@ The new tables generated enabled me to demonstrate just how massive this "Silver
 
 In this challenge, I am tasked with digging deeper into the idea of a mentorship program. My analysis will help build a roadmap into this new mentorship program and positions ready to be filled, by taking a deeper look at the title of those slated to retire, as well as their eligibility to participate in this program. The combination of the two will help Pewlett-Hackard in easing the blow of the retirement wave through planning.
 
-## Results
+## Key Points
 
 ### Retirement Title
 
-- Large sum of Duplicated values in retirement_titles (See Below)
+- There is a large sum of Duplicated values in the retirement_titles table. (See Below)
 
 ![](Resources/Retirement_titles.png)
 
-- Better Analysis with unique titles; however still shows employees who may not be around.
-
+- The unique_titles table alleviates the issue of duplicates in the retirement_titles table.
+  - The table still however shows employees who may have already retired.
 
 - Most of our retirng employees are either Senior Engineers or Senior Staff.
 
@@ -25,7 +25,8 @@ In this challenge, I am tasked with digging deeper into the idea of a mentorship
 
 ### Employees Eligible for Program
 
-- Our True Targets revealed. We see Exactly who we need to Reach out to; 1550 Employees.
+- Our True Targets revealed. 
+  - We see Exactly who we need to Reach out to; 1550 Employees.
 
 ![](Resources/mentorship_eligibilty.png)
 
